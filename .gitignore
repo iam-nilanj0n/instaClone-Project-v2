@@ -1,0 +1,5 @@
+#node_mobule
+/node_modules
+
+#.env
+/.env
